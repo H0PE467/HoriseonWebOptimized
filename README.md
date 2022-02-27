@@ -1,6 +1,6 @@
 #Klaus Manuel Cedillo Arredondo
 
-This is a repository made for the optimaztion of the Hotiseon web app
+This is a repository made for the optimaztion of the Horiseon web app
 
 Its objetive is to 
 -optimize the site for search engines
