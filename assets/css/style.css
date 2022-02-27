@@ -1,3 +1,5 @@
+/* GENERAL STYLES*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* HEADER */
 
 header {
     padding: 20px;
@@ -41,6 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* TEXT STYLES */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +56,8 @@ p {
     font-size: 16px;
 }
 
+/* HERO DIV WITH BACKGROUND IMAGE */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* FLOATS */
 
 .float-left {
     float: left;
@@ -69,11 +79,15 @@ p {
     margin-left: 25px;
 }
 
+/* MAIN */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* BENEFITS ASIDE */
 
 .benefits {
     margin-right: 20px;
@@ -102,6 +116,8 @@ main {
     max-width: 150px;
 }
 
+/* SERVICES SECTIONS */
+
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +136,8 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* FOOTER */
 
 footer {
     padding: 30px;
