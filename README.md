@@ -14,4 +14,4 @@ Features Added:
 
 IMAGES OF THE APP: ![Screenshot of the Deployed App](/.gitignore/ScreenshotWebsiteDemo.png)
 
-LINK TO THE APP: https://h0pe467.github.io/HoriseonWebOptimized/#search-engine-optimization
+LINK TO THE APP: https://h0pe467.github.io/HoriseonWebOptimized/
